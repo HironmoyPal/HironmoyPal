@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **hironmoypal7@gmail.com** For Collaboration/Project or Any
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hironmoy_pal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HironmoyPal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hironmoypal7@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hironmoy_pal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hironmoy-pal-99a66b309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hironmoypal7@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HironmoyPal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
